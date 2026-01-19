@@ -3,6 +3,23 @@
 </p>
 
 ---
+## ✨ Connect & Collaborate
+
+<p align="center">
+  <a href="https://x.com/danuzz69" target="_blank">
+    <img src="https://img.shields.io/badge/X-(Twitter)-1DA1F2?style=for-the-badge&logo=x"/>
+  </a>
+  <a href="https://www.linkedin.com/in/anuj-paudel-a7a88223b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/Anuzzzzzzzz" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+<p align="center">
+I’m open to internships, open source projects, and full-stack/backend opportunities. Let’s build amazing things together!
+
+</p>
 
 ## 📈 Contributions Last Year
 <p align="center">
@@ -120,19 +137,4 @@
 
 ---
 
-## ✨ Connect & Collaborate
 
-<p align="center">
-  <a href="https://x.com/danuzz69" target="_blank">
-    <img src="https://img.shields.io/badge/X-(Twitter)-1DA1F2?style=for-the-badge&logo=x"/>
-  </a>
-  <a href="https://www.linkedin.com/in/anuj-paudel-a7a88223b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/Anuzzzzzzzz" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-<p align="center">
-I’m open to internships, open source projects, and full-stack/backend opportunities. Let’s build amazing things together!
-</p>
