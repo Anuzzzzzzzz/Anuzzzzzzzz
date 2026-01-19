@@ -2,19 +2,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=800&height=70&lines=Hi,+I'm+Anuj+Paudel;Building+real-world+projects+with+passion;Python+%7C+React+%7C+Full-stack"/>
 </p>
 
-<p align="center" style="font-family: 'Segoe UI', sans-serif; font-size:22px; color:#6a5acd;">
-</p>
+---
 
+## 📈 Contributions Last Year
 <p align="center">
-  <a href="https://x.com/danuzz69" target="_blank">
-    <img src="https://img.shields.io/badge/X-(Twitter)-1DA1F2?style=for-the-badge&logo=x"/>
-  </a>
-  <a href="https://www.linkedin.com/in/anuj-paudel-a7a88223b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/Anuzzzzzzzz" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-  </a>
+  <img src="https://ghchart.rshah.org/Anuzzzzzzzz" alt="GitHub contributions graph" />
+</p>
+<p align="center">
+  💻 40 contributions in the last year
 </p>
 
 ---
@@ -23,17 +18,17 @@
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,ts"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,ts" height="50"/>
 </p>
 
 ### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs"/>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs" height="50"/>
 </p>
 
 ### Tools & Data
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,pandas,numpy,docker,git"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,pandas,numpy,docker,git" height="50"/>
 </p>
 
 ---
@@ -41,8 +36,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="220" src="https://github-readme-stats.vercel.app/api?username=Anuzzzzzzzz&show_icons=true&count_private=true&theme=radical&hide_title=false&hide_border=false&card_width=400"/>
-  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuzzzzzzzz&layout=compact&theme=radical&langs_count=10"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Anuzzzzzzzz&show_icons=true&count_private=true&theme=radical"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuzzzzzzzz&layout=compact&theme=radical&langs_count=10"/>
 </p>
 
 <p align="center">
@@ -55,7 +50,7 @@
 
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:25px;">
 
-<!-- Project Card -->
+<!-- Project Cards -->
 <div style="width:320px; border-radius:12px; padding:20px; background:linear-gradient(135deg,#ff9a9e,#fecfef); box-shadow:0 10px 20px rgba(0,0,0,0.15); transition: transform 0.3s ease; cursor:pointer;">
 <h3>📦 TOS-DataScience (anuz branch)</h3>
 <p>Learning Python, ML & FastAPI inside TOS DataScience curriculum.</p>
