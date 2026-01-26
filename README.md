@@ -1,27 +1,24 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=45&duration=3000&pause=500&color=%2300BFA6&center=true&vCenter=true&width=900&lines=Anuj+Paudel;Developer;FastAPI+%E2%80%A2+Data+Science;Build.+Ship.+Repeat." />
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=50&duration=3000&pause=400&color=%2300C8C8&center=true&vCenter=true&width=900&height=120&lines=Anuj+Paudel;Developer;FastAPI+%E2%80%A2+Data+Science;Build.+Ship.+Repeat." />
 </h1>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=36&duration=3000&pause=500&color=%23065535&center=true&vCenter=true&width=900&lines=Could+you+keep+it+simple?" />
-</h1>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=38&duration=2500&pause=400&color=%23005555&center=true&vCenter=true&width=850&height=100&lines=Keep+it+simple.+Code+speaks." />
+</h2>
 
 ---
 
-## 🛠 Skills & Tools
+## 🛠
 
-### Frontend
-<p align="center">
+<p align="center" style="margin-bottom:15px;">
   <img src="https://skillicons.dev/icons?i=react,ts,javascript,html,css" height="50"/>
 </p>
 
-### Backend
-<p align="center">
+<p align="center" style="margin-bottom:15px;">
   <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,mysql,mongodb" height="50"/>
 </p>
 
-### Data Science & Tools
-<p align="center">
+<p align="center" style="margin-bottom:15px;">
   <img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,docker,git" height="50"/>
 </p>
 
@@ -29,7 +26,7 @@
 
 ## 📬 Connect
 
-<p align="center">
+<p align="center" style="margin-top:10px;">
   <a href="mailto:anujpaudel@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -46,6 +43,6 @@
 
 ---
 
-<p align="center" style="font-size:16px; color:#555555;">
-  <sub>BYE.</sub>
+<p align="center" style="font-size:16px; color:#555555; margin-top:20px;">
+  <sub>Bye</sub>
 </p>
