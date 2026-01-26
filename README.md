@@ -13,7 +13,7 @@
 
 ### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,django,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,mysql,mongodb" />
 </p>
 
 ### Data Science & Tools
