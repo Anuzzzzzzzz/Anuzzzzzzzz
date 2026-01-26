@@ -14,10 +14,14 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,mysql,mongodb,git,docker,pandas,numpy,jupyter" />
+</p>
+
 ---
 
-## ⚡ Currently Building
-FastAPI APIs · Data Science · Experimental APIs · Practical Projects
+## ⚡ Currently building
+FastAPI APIs · Data Science · Experimental APIs · Practical projects
 
 ---
 
@@ -25,10 +29,10 @@ FastAPI APIs · Data Science · Experimental APIs · Practical Projects
 <div align="center" style="display:flex; overflow-x:auto; gap:24px; padding:16px;">
 
 <!-- Card: Mamacita -->
-<div style="flex:0 0 auto; background: linear-gradient(135deg,#ffecd2,#fcb69f); border-radius:12px; padding:16px; min-width:300px; box-shadow:0 8px 20px rgba(0,0,0,0.15); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+<div style="flex:0 0 auto; background: linear-gradient(135deg,#ffecd2,#fcb69f); border-radius:12px; padding:16px; min-width:300px;">
 <h3>🌟 Mamacita</h3>
 <p>My main portfolio project — FastAPI + Frontend integration.</p>
-<p>⚠️ Repo might show “not found” error — check <a href="https://github.com/Anuzzzzzzzz/Mamacita">here</a></p>
+<p>⚠️ Repo might show “not found” error — check [here](https://github.com/Anuzzzzzzzz/Mamacita)</p>
 <p>
   <img src="https://img.shields.io/github/stars/Anuzzzzzzzz/Mamacita?style=flat&logo=github&label=Stars"/>
   <img src="https://img.shields.io/github/forks/Anuzzzzzzzz/Mamacita?style=flat&logo=github&label=Forks"/>
@@ -37,22 +41,9 @@ FastAPI APIs · Data Science · Experimental APIs · Practical Projects
 <p>🔗 <a href="https://github.com/Anuzzzzzzzz/Mamacita">View Repo</a></p>
 </div>
 
-<!-- Card: Other Main Repo Example -->
-<div style="flex:0 0 auto; background: linear-gradient(135deg,#a18cd1,#fbc2eb); border-radius:12px; padding:16px; min-width:300px; box-shadow:0 8px 20px rgba(0,0,0,0.15); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-<h3>⚽ Footy Insights</h3>
-<p>Interactive football analytics project with React & TypeScript.</p>
-<p>
-  <img src="https://img.shields.io/github/stars/Anuzzzzzzzz/footy-insights?style=flat&logo=github&label=Stars"/>
-  <img src="https://img.shields.io/github/forks/Anuzzzzzzzz/footy-insights?style=flat&logo=github&label=Forks"/>
-  <img src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-000?style=flat&logo=react&logoColor=white"/>
-</p>
-<p>🔗 <a href="https://github.com/Anuzzzzzzzz/footy-insights">View Repo</a></p>
-</div>
-
-<!-- Card: See All Other Repos -->
-<div style="flex:0 0 auto; background: linear-gradient(135deg,#cfd9df,#e2ebf0); border-radius:12px; padding:16px; min-width:300px; box-shadow:0 8px 20px rgba(0,0,0,0.15); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-<h3>📂 All Other Repos</h3>
+<!-- Other repos placeholder -->
+<div style="flex:0 0 auto; background: linear-gradient(135deg,#cfd9df,#e2ebf0); border-radius:12px; padding:16px; min-width:300px;">
+<h3>📂 Other Repos</h3>
 <p>Check out all my repositories for more projects & experiments.</p>
 <p>🔗 <a href="https://github.com/Anuzzzzzzzz?tab=repositories">See all repos →</a></p>
 </div>
@@ -73,27 +64,29 @@ FastAPI APIs · Data Science · Experimental APIs · Practical Projects
 
 ---
 
-## 🛠 Languages
+## 📈 Activity Graph
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,ts,javascript,dart,objective-c"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anuzzzzzzzz&theme=github-compact&hide_border=true" />
 </p>
 
-## 🛠 Tools & Frameworks
+---
+
+## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,mysql,mongodb,git,docker,pandas,numpy,jupyter"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,mysql,mongodb,git,docker,pandas,numpy,jupyter"/>
 </p>
 
 ---
 
 ## 📬 Contact Me
 <p align="center">
-  <a href="mailto:anujpaudel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://x.com/danuzz69"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/anuj-paudel-a7a88223b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:anujpaudel@example.com">📧 Email</a> &nbsp;|&nbsp;
+  <a href="https://x.com/danuzz69">X</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/anuj-paudel-a7a88223b/">LinkedIn</a>
 </p>
 
 ---
 
 <p align="center">
-  <sub>.BYE.</sub>
+  <sub>less talk. more commits.</sub>
 </p>
