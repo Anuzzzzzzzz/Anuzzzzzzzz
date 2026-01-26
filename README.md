@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=32&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=900&lines=Anuj+Paudel;Developer;FastAPI+%E2%80%A2+Data+Science;Build.+Ship.+Repeat." />
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=36&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=900&lines=Anuj+Paudel;Developer;FastAPI+%E2%80%A2+Data+Science;Build.+Ship.+Repeat." />
 </h1>
 
 ---
@@ -8,22 +8,22 @@
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,ts,javascript,html,css" height="50"/>
 </p>
 
 ### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,mysql,mongodb" height="50"/>
 </p>
 
 ### Data Science & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,docker,git" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,docker,git" height="50"/>
 </p>
 
 ---
 
-## 𝌕
+## 📬 Contact & Connect
 
 <p align="center">
   <a href="mailto:anujpaudel@gmail.com">
@@ -42,7 +42,6 @@
 
 ---
 
-
-<p align="center">
-  <sub>tryna learn </sub>
+<p align="center" style="font-size:16px; color:#888888;">
+  <sub>Learning. Building. Shipping. Repeat. Minimal. Professional.</sub>
 </p>
