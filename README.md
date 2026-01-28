@@ -1,7 +1,6 @@
 <h1 align="center" style="position:relative;">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=60&duration=3000&pause=400&center=true&vCenter=true&width=900&height=140&lines=.+.+.+.+.+.;Anuj+Paudel;.+.+.+.+.+.;Exploring;+.+.+.+.+.;Learning&color=%23ff4b1f;0,%23ff9068;50,%2300bfff;100" />
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=60&duration=3000&pause=400&center=true&vCenter=true&width=900&height=140&lines=.+.+.+.+.+.;Anuj+Paudel;.+.+.+.+.+.;Exploring;+.+.+.+.+.;Learning&colors=%23ff6a00,%23ff8c42,%23ffd194" />
 </h1>
-
 
 
 
