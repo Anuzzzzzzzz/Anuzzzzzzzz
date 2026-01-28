@@ -5,7 +5,7 @@
 ---
 
 <p align="center" style="margin-bottom:15px;">
-  <img src="https://skillicons.dev/icons?i=react,ts,javascript,html,css" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css" height="50"/>
 </p>
 
 <p align="center" style="margin-bottom:15px;">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center" style="margin-bottom:15px;">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,docker,git" height="50"/>
+<img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,docker,git" height="50" style="margin-right:10px;"/>
 </p>
 
 ---
