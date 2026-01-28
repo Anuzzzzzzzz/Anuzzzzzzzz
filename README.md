@@ -1,5 +1,5 @@
 <h1 align="center" style="position:relative;">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=60&duration=3000&pause=400&center=true&vCenter=true&width=900&height=140&lines=.+.+.+.+.+;Anuj+Paudel;.+.+.+.+.+;Exploring;+.+.+.+.+;Learning&color=%23ff4b1f;0,%23ff9068;50,%2300bfff;100" />
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=60&duration=3000&pause=400&center=true&vCenter=true&width=900&height=140&lines=.+.+.+.+.+.;Anuj+Paudel;.+.+.+.+.+.;Exploring;+.+.+.+.+.;Learning&color=%23ff4b1f;0,%23ff9068;50,%2300bfff;100" />
 </h1>
 
 
@@ -46,6 +46,7 @@
 
 <!-- Contact badges, left-aligned like tech cards -->
 <div style="display:flex; flex-wrap:wrap; gap:15px; margin-top:15px;">
+  
 
   <a href="mailto:anujpaudel@gmail.com" style="transition: transform 0.3s;">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
@@ -53,22 +54,24 @@
            onmouseout="this.style.transform='scale(1)';"/>
   </a>
 
-  <a href="https://x.com/danuzz69" style="transition: transform 0.3s;">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" 
-           onmouseover="this.style.transform='scale(1.05)';" 
-           onmouseout="this.style.transform='scale(1)';"/>
-  </a>
+  
 
   <a href="https://www.linkedin.com/in/anuj-paudel-a7a88223b/" style="transition: transform 0.3s;">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
            onmouseover="this.style.transform='scale(1.05)';" 
            onmouseout="this.style.transform='scale(1)';"/>
   </a>
-
+  
+   </a>
   <a href="https://github.com/Anuzzzzzzzz" style="transition: transform 0.3s;">
       <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" 
            onmouseover="this.style.transform='scale(1.05)';" 
            onmouseout="this.style.transform='scale(1)';"/>
   </a>
 
+<a href="https://x.com/danuzz69" style="transition: transform 0.3s;">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" 
+           onmouseover="this.style.transform='scale(1.05)';" 
+           onmouseout="this.style.transform='scale(1)';"/>
+ 
 </div>
