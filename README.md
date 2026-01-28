@@ -2,25 +2,70 @@
   <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=55&duration=3000&pause=400&color=%2300C8C8&center=true&vCenter=true&width=900&height=120&lines=Anuj+Paudel;Developer." />
 </h1>
 
----
-
-<p align="center" style="margin-bottom:15px;">
-  <img src="https://skillicons.dev/icons?i=react,html,css" height="50"/>
-</p>
-
-<p align="center" style="margin-bottom:15px;">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,mongodb" height="50"/>
-</p>
-
-<p align="center" style="margin-bottom:15px;">
-<img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,docker,git" height="50" style="margin-right:10px;"/>
+<p align="center">
+  <sub style="font-size:16px; color:#555555;">Full Stack Developer | Data Enthusiast | Open Source Lover</sub>
 </p>
 
 ---
 
-## 📬 
+## 💻 Tech & Tools
 
-<p align="center" style="margin-top:10px;">
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
+
+  <!-- Frontend -->
+  <div style="text-align:center; border-radius:15px; padding:15px; background:#f0f8ff; box-shadow:0 4px 15px rgba(0,0,0,0.1); transition:transform 0.3s;" 
+       onmouseover="this.style.transform='translateY(-10px)';" onmouseout="this.style.transform='translateY(0)';">
+    <h4>Frontend</h4>
+    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="50" style="margin:5px;" />
+  </div>
+
+  <!-- Backend -->
+  <div style="text-align:center; border-radius:15px; padding:15px; background:#fff0f5; box-shadow:0 4px 15px rgba(0,0,0,0.1); transition:transform 0.3s;" 
+       onmouseover="this.style.transform='translateY(-10px)';" onmouseout="this.style.transform='translateY(0)';">
+    <h4>Backend</h4>
+    <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,mysql,mongodb" height="50" style="margin:5px;" />
+  </div>
+
+  <!-- Data & Tools -->
+  <div style="text-align:center; border-radius:15px; padding:15px; background:#fffaf0; box-shadow:0 4px 15px rgba(0,0,0,0.1); transition:transform 0.3s;" 
+       onmouseover="this.style.transform='translateY(-10px)';" onmouseout="this.style.transform='translateY(0)';">
+    <h4>Data & Tools</h4>
+    <img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,docker,git" height="50" style="margin:5px;" />
+  </div>
+
+</div>
+
+---
+
+## 🗂 Featured Work
+
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:30px; margin-top:20px;">
+
+  <!-- Project 1 -->
+  <div style="background:#e0f7fa; border-radius:15px; width:250px; padding:15px; box-shadow:0 6px 20px rgba(0,0,0,0.15); transition:transform 0.3s;" 
+       onmouseover="this.style.transform='translateY(-10px)';" onmouseout="this.style.transform='translateY(0)';">
+    <img src="https://media.giphy.com/media/L0v0vRrF0T8xCX5q6r/giphy.gif" width="100%" style="border-radius:10px;"/>
+    <h4>Footy Insights</h4>
+    <p>UEFA Euro match prediction platform with AI visualization.</p>
+    <a href="https://github.com/Anuzzzzzzzz/footy-insights">View Repo</a>
+  </div>
+
+  <!-- Project 2 -->
+  <div style="background:#fce4ec; border-radius:15px; width:250px; padding:15px; box-shadow:0 6px 20px rgba(0,0,0,0.15); transition:transform 0.3s;" 
+       onmouseover="this.style.transform='translateY(-10px)';" onmouseout="this.style.transform='translateY(0)';">
+    <img src="https://media.giphy.com/media/3o7TKD0d8wT0hTgjvK/giphy.gif" width="100%" style="border-radius:10px;"/>
+    <h4>Data Cleaning API</h4>
+    <p>FastAPI + Pandas project to clean and serve employee data.</p>
+    <a href="https://github.com/Anuzzzzzzzz/data-cleaning-api">View Repo</a>
+  </div>
+
+</div>
+
+---
+
+## 📬 Contact Me
+
+<p align="center">
   <a href="mailto:anujpaudel@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -35,8 +80,6 @@
   </a>
 </p>
 
----
-
 <p align="center" style="font-size:16px; color:#555555; margin-top:20px;">
-  <sub>Bye</sub>
+  <sub>Designed & Coded by Anuj Paudel 🚀</sub>
 </p>
