@@ -11,14 +11,14 @@
   <div style="text-align:left; border-radius:20px; padding:25px; background:linear-gradient(135deg, #ff6a00, #ffb347); box-shadow:0 6px 18px rgba(0,0,0,0.12); flex: 1 1 240px; transition: transform 0.3s;"
        onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 12px 30px rgba(0,0,0,0.2)';"
        onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 18px rgba(0,0,0,0.12)';">
-    <img src="https://skillicons.dev/icons?i=python,html,css" height="55" style="margin:5px;" />
+    <img src="https://skillicons.dev/icons?i=python" height="55" style="margin:5px;" />
   </div>
 
   <!-- Card 2: Backend & Database -->
   <div style="text-align:left; border-radius:20px; padding:25px; background:linear-gradient(135deg, #f3ff00, #00ffcc); box-shadow:0 6px 18px rgba(0,0,0,0.12); flex: 1 1 240px; transition: transform 0.3s;"
        onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 12px 30px rgba(0,0,0,0.2)';"
        onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 18px rgba(0,0,0,0.12)';">
-    <img src="https://skillicons.dev/icons?i=fastapi,mysql" height="55" style="margin:5px;" />
+    <img src="https://skillicons.dev/icons?i=fastapi" height="55" style="margin:5px;" />
   </div>
 
   <!-- Card 3: Dev Tools -->
