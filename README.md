@@ -5,14 +5,10 @@
   />
 </h1>
 
-<p align="center">
-  <b>Learner </b><br/>
-</p>
-
 ## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,github,githubactions,vscode,pycharm,figma,discord,ai&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,github,githubactions,vscode,pycharm,figma,ai&perline=9" />
 </p>
 
 ---
