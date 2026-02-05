@@ -1,11 +1,9 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=58&duration=3000&pause=500&center=true&vCenter=true&width=900&height=140&lines=Anuj+Paudel;+.+.+.+.;+.+.+.+.&colors=%23ff6a00,%23ffb347,%2300ffcc,%239b59b6,%23ff4b1f" 
+    src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=58&duration=3000&pause=500&center=true&vCenter=true&width=900&height=140&lines=Anuj+Paudel;+.+.+.+.&colors=%23ff6a00,%23ffb347,%2300ffcc,%239b59b6,%23ff4b1f" 
     alt="Typing SVG"
   />
 </h1>
-
-## 💻 Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,fastapi,github,githubactions,vscode,pycharm,figma,ai&perline=9" />
@@ -13,13 +11,12 @@
 
 ---
 
-## 📌 What I’m Working On
+## **📌 What I’m Working On**
 
-- 📄 Document processing & APIs  
-- 🔗 FastAPI backends  
-- 🤖 AI-assisted workflows  
-- ⚙️ Automation & tooling  
-- 🧪 Learning by breaking things (then fixing them)
+- **📄 Document processing & APIs**
+- **🤖 AI-assisted workflows**
+- **⚙️ Automation & tooling** 
+- **🔗 FastAPI backends**  
 
 ---
 
