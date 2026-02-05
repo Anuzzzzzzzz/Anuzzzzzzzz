@@ -6,13 +6,8 @@
 </h1>
 
 <p align="center">
-  <b>Builder • Learner • Explorer</b><br/>
+  <b>• Learner </b><br/>
 </p>
-
----
-
-## 👋 
-
 
 ## 💻 Tech Stack
 
@@ -32,7 +27,7 @@
 
 ---
 
-## 🚀 Danuzz — Let’s Connect
+## 🚀 Danuzz
 
 <p align="left">
   <a href="mailto:anujpaudel@gmail.com">
@@ -47,10 +42,4 @@
   <a href="https://x.com/danuzz69">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>“Learning never exhausts the mind — it just refactors it.”</i> ✨
 </p>
