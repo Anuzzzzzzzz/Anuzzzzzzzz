@@ -2,10 +2,9 @@
   Anuj Paudel
 </h1>
 
-<!-- <p align="left">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,fastapi,github,githubactions,vscode,pycharm,figma,ai&theme=dark&perline=9" />
 </p>
- -->
 
 
 ## **📌 What I’m Working On**
